@@ -1,0 +1,10 @@
+build/
+bin/
+devel/
+lib/
+msg_gen/
+srv_gen/
+
+# avoid hidden backups and compiled python files
+*~
+*.pyc

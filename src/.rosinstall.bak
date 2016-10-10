@@ -1,0 +1,3 @@
+- git:
+    local-name: rplidar
+    uri: https://github.com/robopeak/rplidar_ros.git

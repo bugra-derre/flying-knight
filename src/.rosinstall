@@ -1,0 +1,6 @@
+- git:
+    local-name: hector_slam
+    uri: https://github.com/tu-darmstadt-ros-pkg/hector_slam.git
+- git:
+    local-name: rplidar
+    uri: https://github.com/robopeak/rplidar_ros.git
