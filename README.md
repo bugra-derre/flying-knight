@@ -17,7 +17,7 @@ You should know how to connect to your Raspberry Pi. If not demonstrate your int
 
 The standard user and password for the Ubuntu image are *ubuntu* and *ubuntu*. See also the [FAQ](https://ubuntu-pi-flavour-maker.org/faq/).
 
-If you want to set up a WiFi connection for your Raspberry you may want to take a look [here](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md). If you are unfamiliar with the wpa_supplicant tool and its configuration [click here (German)](https://wiki.ubuntuusers.de/WLAN/wpa_supplicant/) first.
+If you want to set up a WiFi connection for your Raspberry you may want to take a look [here](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md). If you are unfamiliar with *wpa_supplicant* and its configuration [click here (German)](https://wiki.ubuntuusers.de/WLAN/wpa_supplicant/).
 
 If you have an unfamiliar keyboard layout, enter the following command to adapt your keyboard settings:
 ```bash
